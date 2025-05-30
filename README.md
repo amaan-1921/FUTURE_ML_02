@@ -13,22 +13,22 @@ Dataset used: AADR stock prices from Kaggle [https://www.kaggle.com/datasets/kya
 Features include Date, Open, High, Low, Close, Adjusted Close, and Volume.
 
 ## Tools and Technologies
-### Programming Language: Python
+ Programming Language: Python
 
-### Libraries: Pandas, NumPy, Scikit-learn, Matplotlib
+ Libraries: Pandas, NumPy, Scikit-learn, Matplotlib
 
-### Environment: Jupyter Notebook / Google Colab
+ Environment: Jupyter Notebook / Google Colab
 
 ## Methodology
-### Data Preprocessing: Parsing dates, handling missing values.
+ Data Preprocessing: Parsing dates, handling missing values.
 
-### Feature Selection: Using relevant features to predict the Close price.
+ Feature Selection: Using relevant features to predict the Close price.
 
-### Model Training: Linear Regression for price prediction.
+ Model Training: Linear Regression for price prediction.
 
-### Evaluation: Model accuracy measured using R-squared score.
+ Evaluation: Model accuracy measured using R-squared score.
 
-### Visualization: Plotting actual vs predicted stock prices.
+ Visualization: Plotting actual vs predicted stock prices.
 
 ## Results
 Achieved model confidence (R² score) of approximately 0.92.
