@@ -35,7 +35,7 @@ Achieved model confidence (R² score) of approximately 0.92.
 
 Visualized predictions closely align with actual stock prices, indicating a good model fit.
 
-How to Run
+## How to Run
 Clone the repository.
 
 Install required Python libraries (see requirements.txt if provided).
